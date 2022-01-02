@@ -12,4 +12,4 @@ The goal is to have a vector space where similar documenst are "close" according
 
 2) Build a web app on Django to mount the similarity model.
 
-3) Deploy the django project on heroku through github.
+3) Deploy the django project on heroku through github. 
